@@ -32,7 +32,7 @@ SeleniumJavaProject/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/SeleniumJavaProject.git
+git clone https://github.com/your-repo/SeleniumJavaProject.git](https://github.com/aljazarifoundation/SeleniumJavaFunctional.git
 cd SeleniumJavaProject
 ```
 
@@ -68,5 +68,4 @@ mvn exec:java -Dexec.mainClass="Main"
 For troubleshooting, check the `logs/` folder for errors.
 
 ## Video
-
-# SeleniumJavaFunctional
+https://github.com/user-attachments/assets/c4c65e53-5a63-4fa7-a17b-938bdd71c4e0
